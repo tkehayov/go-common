@@ -1,3 +1,3 @@
-module github.com/tkehayov/gocommons
+module gocommons
 
 go 1.16

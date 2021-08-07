@@ -2,6 +2,6 @@ package gocommons
 
 import "fmt"
 
-func PrintCookies() {
+func PrintCookiesss() {
 	fmt.Println("Daaaa!!!!")
 }
